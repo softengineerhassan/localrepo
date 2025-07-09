@@ -52,5 +52,5 @@ def tic_tac_toe():
         except (ValueError, IndexError):
             print("⚠️ Invalid input. Please enter numbers between 0 and 2.")
 
-# Run the game
+
 tic_tac_toe()
